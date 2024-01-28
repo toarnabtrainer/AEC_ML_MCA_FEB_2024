@@ -1,4 +1,4 @@
-[# SQLite Database
+# SQLite Database
 
 <hr>
 
