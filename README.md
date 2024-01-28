@@ -36,6 +36,21 @@ https://www.onlinegdb.com/
 
 <hr>
 
+**9 Different Distance Measure Techniques:**	https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa <br>
+**Elite Data Science Tutorial:**	https://elitedatascience.com/primer <br>
+**Hierarchical Clustering Explained:** https://towardsdatascience.com/hierarchical-clustering-explained-e59b13846da8
+
+**HTML Color Codes:**<br>
+https://htmlcolorcodes.com/
+
+**HTML Text Tutorial Link:**<br>
+https://www.w3schools.com/html/default.asp
+
+**Google Drive Link for E-Books on Machine Learning:**<br>
+https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sharing
+
+<hr>
+
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
 
