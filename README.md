@@ -51,6 +51,12 @@ https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sha
 
 <hr>
 
+* **Link for Project Group Formation Form:** https://bit.ly/3JCZdCx-
+* **Test on Machine Learning:**	https://bit.ly/2ZJeb1z-
+* **Test on Correlation and Regression:** https://bit.ly/3P2ps66-
+
+<hr>
+
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
 
