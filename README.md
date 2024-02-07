@@ -3,6 +3,7 @@
 
 * **GitHub Link:** https://github.com/toarnabtrainer/AEC_ML_MCA_FEB_2024
 * **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
+* **NotePad.PW Link:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
