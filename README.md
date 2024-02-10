@@ -12,7 +12,7 @@
 * Each group should try to appear for the project presentation with proper preparations and synchronization.<br>
 * On the day of presentation, each group will share a Google Drive link (with anyone can access sharable mode) with Project Presentation PPT, Project Documentation PDF and Project Complete Code (IPYNB File), All Dataset Files successfully uploaded.<br>
 * Project Presentation Slots will be shared in here in this GitHub account successfully.<br>
-* For any consultation, I shall remain available at 9830037439 (my Mobile/WhatsApp number)<br>
+* For any consultation, I shall remain available at 9830037439 (my Mobile/WhatsApp number) or mail can be sent at toarnabchak@gmail.com <br>
 * I wish you all my best wishes for a successful project presentation.<br>
 
 <hr>
