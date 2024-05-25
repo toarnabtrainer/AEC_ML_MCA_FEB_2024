@@ -1,5 +1,10 @@
 # AEC_ML_MCA_FEB_2024
 
+![image](https://github.com/toarnabtrainer/AEC_ML_MCA_FEB_2024/assets/111301975/dc90d074-0bfe-463b-a505-b4e2ed9a85ba)
+
+<hr>
+
+
 ## Important points to remember regarding Project Presentation:
 * In the project presentation, students should ensure VGA/HDMI Compatible LCD Projection option from their systems, proper college uniform and system ready with project presentation and execution.<br>
 * All group members should have proper contribution to project PPT presentation and code demonstration.<br>
